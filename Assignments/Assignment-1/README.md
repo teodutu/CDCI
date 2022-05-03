@@ -1,8 +1,8 @@
 # Assignment 1: Google SLO-Generator 2.0.0 - Code Execution
 
-Use the `Makefile` to deploy the environment:
+Use the `Makefile` in the `container` folder to deploy the environment:
 ```
-studetn@cdci $ make connect  # Connect to the container
+studetn@cdci container $ make connect  # Connect to the container
 [...]
 
 root@... # cd root  # Navigate to the exploit location
